@@ -12,6 +12,8 @@ Form đăng ký bao gồm các tính năng sau:
   - **Email**: Trường nhập email với biểu tượng thư đi kèm.
   - **Mật khẩu**: Trường nhập mật khẩu với tùy chọn hiển thị/ẩn mật khẩu (biểu tượng con mắt).
   - **Thành phố**: Lựa chọn thành phố từ danh sách thả xuống (dropdown), ví dụ: TP.HCM, Hà Nội, Đà Nẵng, Cần Thơ.
+ 
+    
   ![GIAO DIỆN MINH HỌA](IMG/GD.png)
 
 
