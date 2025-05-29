@@ -23,10 +23,14 @@ Form đăng ký bao gồm các tính năng sau:
     - "Email không hợp lệ!" (nếu email không đúng định dạng)
     - "Mật khẩu phải có ít nhất 6 ký tự"
     - "Vui lòng chọn thành phố"
+      
+     ![Bắt Lỗi](IMG/bl.png)
 
 - **Nút điều khiển**:
   - **Submit**: Gửi thông tin form sau khi điền đầy đủ và hợp lệ.
   - **Reset**: Xóa toàn bộ dữ liệu đã nhập để bắt đầu lại.
+ 
+     ![Tùy chọn](IMG/dk.png)
 
 ## Giao diện
 Ứng dụng có giao diện tối giản với tông màu sáng (nền hồng nhạt), phù hợp với thiết bị di động. Các trường nhập liệu được bố trí rõ ràng, đi kèm với các thông báo lỗi màu đỏ để người dùng dễ dàng nhận biết khi nhập sai.
